@@ -1,7 +1,10 @@
 <img width= "1500" src ="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
+>
+>
 > “Stay Hungry, Stay Foolish”
 >               — Steve Jobs
+>
 
 
 ###  👨🏻‍💻 Hi there, This is Siddhant 👋
