@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, This is Siddhant 👋
 
 <!--
 **siddhantsambit/siddhantsambit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=siddhantsambit&show_icons=true&theme=tokyonight)](https://github.com/siddhantsambit)
