@@ -1,4 +1,4 @@
-### 🏻‍💻 Hi there, This is Siddhant 👋
+###  👨🏻‍💻 Hi there, This is Siddhant 👋
 
 <!--
 **siddhantsambit/siddhantsambit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
