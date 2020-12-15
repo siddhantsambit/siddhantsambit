@@ -1,3 +1,7 @@
+
+> “Stay Hungry, Stay Foolish”
+>               — Steve Jobs
+
 ###  👨🏻‍💻 Hi there, This is Siddhant 👋
 
 <!--
