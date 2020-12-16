@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=siddhantsambit&show_icons=true&theme=tokyonight)](https://github.com/siddhantsambit)
 
+[![Siddhant's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsambit&layout=compact)](https://github.com/siddhantsambit)
+
 ### Connect with me :
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddhant-sambit-09003477/)
 
