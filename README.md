@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddhant-sambit-09003477/)
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-siddhantsambit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddhantsambit@gmail.com)](mailto:siddhantsambit@gmail.com)
+
+- 🌱 I’m currently learning Machine Learning and A.I.
