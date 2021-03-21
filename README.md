@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Siddhant's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsambit&layout=compact&theme=radical)](https://github.com/siddhantsambit)
 
 ### Connect with me :
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddhant-sambit-09003477/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddhant-sambit/)
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-siddhantsambit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddhantsambit@gmail.com)](mailto:siddhantsambit@gmail.com)
 
