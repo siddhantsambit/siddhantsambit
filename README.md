@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
 </p>
