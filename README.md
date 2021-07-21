@@ -31,4 +31,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-siddhantsambit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddhantsambit@gmail.com)](mailto:siddhantsambit@gmail.com)
 
+
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+</p>
+
 - 🌱 I’m currently learning Machine Learning and A.I.
